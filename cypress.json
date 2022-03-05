@@ -1,0 +1,20 @@
+{
+    "baseUrl": "https://www.saucedemo.com/",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+    "video": false,
+    "defaultCommandTimeout": 10000,
+    "execTimeout": 60000,
+    "taskTimeout": 60000,
+    "pageLoadTimeout": 80000,
+    "requestTimeout": 10000,
+    "responseTimeout": 8000,
+    "chromeWebSecurity": false,
+    "waitForAnimations": true,
+    "numTestsKeptInMemory": 10,
+    "trashAssetsBeforeRuns": true,
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": "reporterOpts.json"
+    }
+  }

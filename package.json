@@ -1,0 +1,20 @@
+{
+  "name": "tecbeatstest",
+  "version": "1.0.0",
+  "description": "cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "test",
+    "framework"
+  ],
+  "author": "reginaldo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}

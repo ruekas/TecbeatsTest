@@ -1,0 +1,14 @@
+{
+    "data": {
+      "username": "standard_user",
+      "password": "secret_sauce",
+      "firstName": "Reginaldo",
+      "lastName": "Torres",
+      "postalCode": "66496"
+    },
+    "item": {
+      "object": "backpack",
+      "price": "$29.99",
+      "qty": "1"
+    }
+  }
