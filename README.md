@@ -1,6 +1,9 @@
 # TecbeatsTest
+
 Repository for a test
+
 Installation
+
 Prerequisites for any OS: Install Node.js to run.
 
 Clone the repository: & git clone https://github.com/ruekas/TecbeatsTest.git
