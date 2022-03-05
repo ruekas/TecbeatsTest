@@ -11,7 +11,9 @@ Clone the repository: & git clone https://github.com/ruekas/TecbeatsTest.git
 Install the dependencies and devDependencies and start the server.
 
 $ cd tecBeatsTest
+
 $ npm install
+
 $ npm run open
 
 Packages
